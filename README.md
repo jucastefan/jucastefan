@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **juca_stefan_florin@yahoo.com**
 
-- 📄 Know about my experiences [https://jucastefan.com/static/media/Resume.92cea7ae.pdf](https://jucastefan.com/static/media/Resume.92cea7ae.pdf)
-
 - ⚡ Fun fact **I think I'm a funny guy**
 
 <h3 align="left">Connect with me:</h3>
