@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stefan_juca" target="blank"><img src="https://img.shields.io/twitter/follow/stefan_juca?logo=twitter&style=for-the-badge" alt="stefan_juca" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://jucastefan.com/](https://jucastefan.com/)
+- 👨‍💻 All of my projects are available at [https://jucastefan.org/](https://jucastefan.org/)
 
 - 📫 How to reach me **juca_stefan_florin@yahoo.com**
 
