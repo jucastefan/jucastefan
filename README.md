@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A passionate self-taught web developer, I enjoy programming and I give my best to be good at it.🦾</h3>
+<h3 align="center">A passionate developer, I enjoy programming and I give my best to be good at it.🦾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jucastefan&label=Profile%20views&color=0e75b6&style=flat" alt="jucastefan" /> </p>
 
