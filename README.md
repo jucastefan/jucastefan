@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A passionate developer, I enjoy programming and I give my best to be good at it.🦾</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jucastefan&label=Profile%20views&color=0e75b6&style=flat" alt="jucastefan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jucastefan" alt="jucastefan" /></a> </p>
 
