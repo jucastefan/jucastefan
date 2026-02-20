@@ -5,7 +5,6 @@
 - 👨‍💻 All of my projects are available at [https://www.jucastefan.org/](https://www.jucastefan.org/)
 
 - 📫 How to reach me **juca_stefan_florin@yahoo.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
