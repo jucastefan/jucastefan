@@ -2,13 +2,13 @@
 
 <p align="left"> <a href="https://twitter.com/stefan_juca" target="blank"><img src="https://img.shields.io/twitter/follow/stefan_juca?logo=twitter&style=for-the-badge" alt="stefan_juca" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.jucastefan.org/](https://www.jucastefan.org/)
+- All of my projects are available at [https://www.jucastefan.org/](https://www.jucastefan.org/)
 
-- 📫 How to reach me **juca_stefan_florin@yahoo.com**
+- How to reach me **juca_stefan_florin@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juca-stefan-florin-2bb5a4170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juca-stefan-florin-2bb5a4170/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/juca-stefan-florin-2bb5a4170/](https://www.linkedin.com/in/juca-stefan-florin-2bb5a4170/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juca-stefan-florin-2bb5a4170/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
