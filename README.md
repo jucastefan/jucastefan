@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jucastefan" alt="jucastefan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/stefan_juca" target="blank"><img src="https://img.shields.io/twitter/follow/stefan_juca?logo=twitter&style=for-the-badge" alt="stefan_juca" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.jucastefan.org/](https://www.jucastefan.org/)
